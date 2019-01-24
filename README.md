@@ -20,8 +20,9 @@ Navigate to the program folder and run the following command:
 python zipfile-cracker.py -f (password protected zip file) -d (word list or dictionary file)
  
 optional arguments:
-  -h /  --help           == show this help message 
-python zipfile-cracker.py  == Program usage
+  -h /  --help           ==  show this help message 
+  
+  python zipfile-cracker.py  ==  Program usage
 
 Examples
 ========
