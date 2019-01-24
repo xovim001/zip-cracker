@@ -17,7 +17,7 @@ This program will run in any python installed Linux distros and windows machine.
 ========
 Navigate to the program folder and run the following command:
 
-python zipfile-cracker.py -f <password protected zip file> -d <word list or dictionary file>
+python zipfile-cracker.py -f (password protected zip file) -d (word list or dictionary file)
  
 optional arguments:
   -h /  --help           == show this help message 
