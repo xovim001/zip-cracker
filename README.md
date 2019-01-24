@@ -11,7 +11,7 @@ Dependencies
 
 Compatibility: 
 ========
-This program will run in any Linux distros installed python, and windows as well. Tested on Kali Linux and Windows 10 (python 2.7 installed)
+This program will run in any python installed Linux distros and windows machine. Tested on Kali Linux and Windows 10 (python 2.7 installed)
 
  USAGE: 
 ========
